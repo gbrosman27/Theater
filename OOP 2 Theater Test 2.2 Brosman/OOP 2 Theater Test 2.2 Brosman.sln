@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheaterScenario", "TheaterScenario\TheaterScenario.csproj", "{200ED58E-2906-444F-9E48-A07283047655}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheaterEngine", "TheaterEngine\TheaterEngine.csproj", "{8AF5C7AF-E8A4-4E58-8397-E63F608FC0DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stands", "Stands\Stands.csproj", "{293E80E8-B3CF-44EB-B89C-B23DFD9FB33E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyCollectors", "MoneyCollectors\MoneyCollectors.csproj", "{A27D9EF2-440F-4441-9FB8-EB6A0F783FAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcessionItems", "ConcessionItems\ConcessionItems.csproj", "{CCC307AF-FC17-4878-B747-25690FA620F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheaterConsole", "TheaterConsole\TheaterConsole.csproj", "{B1387A46-03D7-4F30-BCDB-29EBDC23668D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{200ED58E-2906-444F-9E48-A07283047655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200ED58E-2906-444F-9E48-A07283047655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200ED58E-2906-444F-9E48-A07283047655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200ED58E-2906-444F-9E48-A07283047655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF5C7AF-E8A4-4E58-8397-E63F608FC0DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF5C7AF-E8A4-4E58-8397-E63F608FC0DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF5C7AF-E8A4-4E58-8397-E63F608FC0DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF5C7AF-E8A4-4E58-8397-E63F608FC0DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{293E80E8-B3CF-44EB-B89C-B23DFD9FB33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{293E80E8-B3CF-44EB-B89C-B23DFD9FB33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{293E80E8-B3CF-44EB-B89C-B23DFD9FB33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{293E80E8-B3CF-44EB-B89C-B23DFD9FB33E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A27D9EF2-440F-4441-9FB8-EB6A0F783FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27D9EF2-440F-4441-9FB8-EB6A0F783FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27D9EF2-440F-4441-9FB8-EB6A0F783FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27D9EF2-440F-4441-9FB8-EB6A0F783FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC307AF-FC17-4878-B747-25690FA620F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC307AF-FC17-4878-B747-25690FA620F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC307AF-FC17-4878-B747-25690FA620F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC307AF-FC17-4878-B747-25690FA620F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1387A46-03D7-4F30-BCDB-29EBDC23668D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1387A46-03D7-4F30-BCDB-29EBDC23668D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1387A46-03D7-4F30-BCDB-29EBDC23668D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1387A46-03D7-4F30-BCDB-29EBDC23668D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {143A68B2-DBB3-4A06-AD2F-7AB44E185A04}
+	EndGlobalSection
+EndGlobal
